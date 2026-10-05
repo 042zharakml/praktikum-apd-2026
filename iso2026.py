@@ -6,7 +6,7 @@ anngota_kelompok = ["Nauvan Hadya",
                      "Ferdika Fathur Rahman",
                      "Muhammad Izhar Akmal",
                      "Muhammad Ilyas Muzakki",
-                     "Artbeebib Trezequeth",
+                     "Artbeebi Trezequeth",
                      "Arman Nurhendra",
                      "Hanif Khailurrahim",
                      "Alfi Fadhilah",
@@ -15,10 +15,13 @@ anngota_kelompok = ["Nauvan Hadya",
                      "Muhammad Sultan Iqbal",
                      "Suniati Muwadah"]
 profil_kelompok = """Data Science, Logo ini mempunyai data yang saling terhubung dan diolah dengan sistematis untuk menemukan pola,
-                    serta menghasilkan insight. bentuk pusat menggabarkan data sebagai inti"""
+                    serta menghasilkan insight. bentuk pusat menggabarkan data sebagai inti, seentara garis-garis disekitarnya mempresentasikan
+                    koneksi dan proses analisis data"""
+
+print ("Selamat datang!/")
 while True:
     print ("1.Tampilkan profil kelompok")
-    print ("2.Tampilkan anggota kelompok")
+    print ("2.Tampilkan nama bindam")
     print ("3.Tampilkan anggota kelompok")
     print ("4.Menambahkanan anggota kelompok")
     pilihan = int(input("Masukkan pilihan: "))
