@@ -1,4 +1,4 @@
-from prettytable import PrettyTable 
+from prettytable import PrettyTable
  
 # Membuat objek tabel dan menentukan nama-nama kolom 
 tabel = PrettyTable() 
@@ -15,4 +15,4 @@ tabel.add_rows([
  
 # Mengatur perataan teks pada kolom tertentu ('l' = kiri, 'c' = tengah, 'r' = kanan) 
 tabel.align["Nama Mahasiswa"] = "l" 
-print(tabel).
+print(tabel)
